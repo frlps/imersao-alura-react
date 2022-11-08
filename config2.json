@@ -1,0 +1,27 @@
+{
+    "name": "Fabio Souza",
+    "job": "Data Scientist and IA Reasearcher",
+    "github": "frlps",
+    "playlists":{
+        "jogos":[
+            {
+                "title": "Título Jogo 1",
+                "URL": "url Jogo 1",
+                "thumb": "thumbnail Jogo 1"
+            },
+            {
+                "title": "Título Jogo 2",
+                "URL": "url Jogo 2",
+                "thumb": "thumbnail Jogo 2"
+            }
+        ],
+        "front-end":[
+            {
+                "title": "Título front 1",
+                "URL": "url fron 1",
+                "thumb": "thumbnail front 1"
+            }
+        ]
+    }
+
+}
